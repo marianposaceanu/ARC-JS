@@ -13,5 +13,8 @@ Credits on libraries used:
 
 - [MurmurHash fast hashing](http://en.wikipedia.org/wiki/MurmurHash)
 - [Optimized JavaScript implementation of the MurmurHash](https://github.com/garycourt/murmurhash-js)
+- [Dequeue JavaScript implementation](http://david-burger.blogspot.ro/2009/07/javascript-dequeue.html)
+
+
 
 
